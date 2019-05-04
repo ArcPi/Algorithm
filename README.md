@@ -6,6 +6,10 @@
 3. [partition-list](LeetCode/partition-list.md)
 4. [remove-duplicates-from-sorted-list](LeetCode/remove-duplicates-from-sorted-list.md)
 5. [merge-two-sorted-lists](LeetCode/merge-two-sorted-lists.md)
+6. [add-two-numbers](LeetCode/add-two-numbers.md)
+7. [swap-nodes-in-pairs](LeetCode/swap-nodes-in-pairs.md)
+8. [merge-k-sorted-lists](LeetCode/merge-k-sorted-lists.md)
+9. [remove-nth-node-from-end-of-list](LeetCode/remove-nth-node-from-end-of-list.md)
 
 # 不会的题目
 # List
