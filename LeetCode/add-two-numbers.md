@@ -88,3 +88,46 @@ public:
     }
 };
 ```
+代码优化：
+```c++
+class Solution {
+public:
+    ListNode *addTwoNumbers(ListNode *l1, ListNode *l2) {
+        int num = 0;
+        int carry = 0;
+        ListNode *tmp1 = l1;
+        ListNode *tmp2 = l2;
+        ListNode *dummy = new ListNode(0);
+        ListNode *ptr = dummy;
+        
+        while(tmp1 || tmp2)
+        {
+            if(tmp1)
+            {
+                num += tmp1->val;
+                tmp1 = tmp1->next;
+            }
+            if(tmp2)
+            {
+                num += tmp2->val;
+                tmp2 = tmp2->next;
+            }
+            num += carry;
+            carry = num/10;
+            ListNode *newNode = new ListNode(num % 10);
+            ptr->next = newNode;
+            ptr = ptr->next;
+            num = 0;
+        }
+        
+        if(carry > 0)
+        {
+            ListNode *newNode = new ListNode(carry);
+            ptr->next = newNode;
+            ptr = ptr->next;
+        }
+        
+        return dummy->next;
+    }
+};
+```
