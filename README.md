@@ -35,6 +35,12 @@
 9. [remove-nth-node-from-end-of-list](LeetCode/remove-nth-node-from-end-of-list.md)
 10. [reverse-nodes-in-k-group](https://www.nowcoder.com/practice/b49c3dc907814e9bbfa8437c251b028e?tpId=46&tqId=29154&tPage=1&rp=1&ru=/ta/leetcode&qru=/ta/leetcode/question-ranking)
 11. [remove-duplicates-from-sorted-list-ii](LeetCode/remove-duplicates-from-sorted-list-ii.md)
+12. [19 删除链表的倒数第N个节点](力扣/探索/初级算法/链表/19&#32;删除链表的倒数第N个节点.md)
+13. [21 合并两个有序链表](力扣/探索/初级算法/链表/21&#32;合并两个有序链表.md)
+14. [141 环形链表](力扣/探索/初级算法/链表/141&#32;环形链表.md)
+15. [206 反转链表](力扣/探索/初级算法/链表/206&#32;反转链表.md)
+16. [234 回文链表](力扣/探索/初级算法/链表/234&#32;回文链表.md)
+17. [237 删除链表中的节点](力扣/探索/初级算法/链表/237&#32;删除链表中的节点.md)
 
 # Binary Tree
 1.  [1026 Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)
