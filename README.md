@@ -45,6 +45,7 @@
 # Binary Tree
 1.  [1026 Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)
 2.  [1028. Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)
+3.  [104 二叉树的最大深度](力扣/探索/初级算法/树/104&#32;二叉树的最大深度&#32;.md)
 
 # Dynamic Planning
 1. [1027. Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence/)
