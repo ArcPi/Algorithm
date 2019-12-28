@@ -41,13 +41,16 @@
 15. [206 反转链表](力扣/探索/初级算法/链表/206&#32;反转链表.md)
 16. [234 回文链表](力扣/探索/初级算法/链表/234&#32;回文链表.md)
 17. [237 删除链表中的节点](力扣/探索/初级算法/链表/237&#32;删除链表中的节点.md)
-### 18. [101 对称二叉树](力扣/探索/初级算法/树/101&#32;对称二叉树.md)
+
+
 
 # Binary Tree
 1.  [1026 Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)
 2.  [1028. Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/)
 3.  [104 二叉树的最大深度](力扣/探索/初级算法/树/104&#32;二叉树的最大深度&#32;.md)
 4.  [98 验证二叉搜索树](力扣/探索/初级算法/树/98&#32;验证二叉搜索树.md)
+### 5. [101 对称二叉树](力扣/探索/初级算法/树/101&#32;对称二叉树.md)
+### 6. [102 二叉树的层次遍历](力扣/探索/初级算法/树/102&#32;二叉树的层次遍历.md)
 
 # Dynamic Planning
 1. [1027. Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence/)
