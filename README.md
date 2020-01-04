@@ -56,3 +56,4 @@
 # Dynamic Planning
 1. [1027. Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence/)
 2. [53. 最大子序和](力扣/探索/初级算法/动态规划/53&#32;最大子序和.md)
+3. [121 买卖股票的最佳时机](力扣/探索/初级算法/动态规划/121&#32;买卖股票的最佳时机.md)
